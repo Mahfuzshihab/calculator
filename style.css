@@ -6,11 +6,10 @@
         .calculator {
             background: #414141;
             width: 300px;
-         
             margin: auto;
            
-        }
-        input, select, button {
+      }
+        input, button {
             margin: 10px ;
             padding: 5px;
             width: 90%;
@@ -20,3 +19,6 @@
             font-size: 1.2em;
             
         }
+
+       
+       
